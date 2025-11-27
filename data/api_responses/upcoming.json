@@ -1,0 +1,462 @@
+{
+  "typeMatches": [
+    {
+      "matchType": "International",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 10906,
+            "seriesName": "Pakistan T20I Tri-Series 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 134408,
+                  "seriesId": 10906,
+                  "seriesName": "Pakistan T20I Tri-Series 2025",
+                  "matchDesc": "1st Match",
+                  "matchFormat": "T20",
+                  "startDate": "1763470800000",
+                  "endDate": "1763483400000",
+                  "state": "Preview",
+                  "status": "Match starts at Nov 18, 13:00 GMT",
+                  "team1": {
+                    "teamId": 3,
+                    "teamName": "Pakistan",
+                    "teamSName": "PAK",
+                    "imageId": 776308
+                  },
+                  "team2": {
+                    "teamId": 12,
+                    "teamName": "Zimbabwe",
+                    "teamSName": "ZIM",
+                    "imageId": 776198
+                  },
+                  "venueInfo": {
+                    "id": 25,
+                    "ground": "Rawalpindi Cricket Stadium",
+                    "city": "Rawalpindi",
+                    "timezone": "+05:00",
+                    "latitude": "33.651525",
+                    "longitude": "73.075824"
+                  },
+                  "seriesStartDt": "1763337600000",
+                  "seriesEndDt": "1764547200000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Preview"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "League",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 11110,
+            "seriesName": "CSA T20 Knock Out Competition 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 136235,
+                  "seriesId": 11110,
+                  "seriesName": "CSA T20 Knock Out Competition 2025",
+                  "matchDesc": "Qualifier 1",
+                  "matchFormat": "T20",
+                  "startDate": "1763463600000",
+                  "endDate": "1763476200000",
+                  "state": "Preview",
+                  "status": "Match starts at Nov 18, 11:00 GMT",
+                  "team1": {
+                    "teamId": 281,
+                    "teamName": "Knights",
+                    "teamSName": "KNG",
+                    "imageId": 172331
+                  },
+                  "team2": {
+                    "teamId": 927,
+                    "teamName": "Eastern Cape",
+                    "teamSName": "ECAPE",
+                    "imageId": 248405
+                  },
+                  "venueInfo": {
+                    "id": 72,
+                    "ground": "Mangaung Oval",
+                    "city": "Bloemfontein",
+                    "timezone": "+02:00",
+                    "latitude": "-29.116752",
+                    "longitude": "26.20519"
+                  },
+                  "seriesStartDt": "1761264000000",
+                  "seriesEndDt": "1764028800000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Preview"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "seriesAdWrapper": {
+            "seriesId": 11146,
+            "seriesName": "ACC Mens Asia Cup Rising Stars 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 137415,
+                  "seriesId": 11146,
+                  "seriesName": "ACC Mens Asia Cup Rising Stars 2025",
+                  "matchDesc": "9th Match, Group B",
+                  "matchFormat": "T20",
+                  "startDate": "1763458200000",
+                  "endDate": "1763470800000",
+                  "state": "Preview",
+                  "status": "Match starts at Nov 18, 09:30 GMT",
+                  "team1": {
+                    "teamId": 325,
+                    "teamName": "Pakistan A",
+                    "teamSName": "PAKA",
+                    "imageId": 776313
+                  },
+                  "team2": {
+                    "teamId": 7,
+                    "teamName": "United Arab Emirates",
+                    "teamSName": "UAE",
+                    "imageId": 776242
+                  },
+                  "venueInfo": {
+                    "id": 582,
+                    "ground": "West End Park International Cricket Stadium",
+                    "city": "Doha",
+                    "timezone": "+03:00",
+                    "latitude": "25.189391",
+                    "longitude": "51.460211"
+                  },
+                  "seriesStartDt": "1763078400000",
+                  "seriesEndDt": "1764028800000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Preview"
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 137426,
+                  "seriesId": 11146,
+                  "seriesName": "ACC Mens Asia Cup Rising Stars 2025",
+                  "matchDesc": "10th Match, Group B",
+                  "matchFormat": "T20",
+                  "startDate": "1763476200000",
+                  "endDate": "1763488800000",
+                  "state": "Preview",
+                  "status": "Match starts at Nov 18, 14:30 GMT",
+                  "team1": {
+                    "teamId": 78,
+                    "teamName": "India A",
+                    "teamSName": "INDA",
+                    "imageId": 776181
+                  },
+                  "team2": {
+                    "teamId": 304,
+                    "teamName": "Oman",
+                    "teamSName": "OMAN",
+                    "imageId": 776328
+                  },
+                  "venueInfo": {
+                    "id": 582,
+                    "ground": "West End Park International Cricket Stadium",
+                    "city": "Doha",
+                    "timezone": "+03:00",
+                    "latitude": "25.189391",
+                    "longitude": "51.460211"
+                  },
+                  "seriesStartDt": "1763078400000",
+                  "seriesEndDt": "1764028800000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Preview"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "seriesAdWrapper": {
+            "seriesId": 11119,
+            "seriesName": "Abu Dhabi T10 League 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 136621,
+                  "seriesId": 11119,
+                  "seriesName": "Abu Dhabi T10 League 2025",
+                  "matchDesc": "1st Match",
+                  "matchFormat": "T20",
+                  "startDate": "1763473500000",
+                  "endDate": "1763486100000",
+                  "state": "Preview",
+                  "status": "Match starts at Nov 18, 13:45 GMT",
+                  "team1": {
+                    "teamId": 2874,
+                    "teamName": "Quetta Qavalry",
+                    "teamSName": "QUQ",
+                    "imageId": 779915
+                  },
+                  "team2": {
+                    "teamId": 513,
+                    "teamName": "Northern Warriors",
+                    "teamSName": "NW",
+                    "imageId": 779918
+                  },
+                  "venueInfo": {
+                    "id": 94,
+                    "ground": "Sheikh Zayed Stadium",
+                    "city": "Abu Dhabi",
+                    "timezone": "+04:00",
+                    "latitude": "24.416138",
+                    "longitude": "54.453566"
+                  },
+                  "seriesStartDt": "1763424000000",
+                  "seriesEndDt": "1764633600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Preview"
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 136632,
+                  "seriesId": 11119,
+                  "seriesName": "Abu Dhabi T10 League 2025",
+                  "matchDesc": "2nd Match",
+                  "matchFormat": "T20",
+                  "startDate": "1763481600000",
+                  "endDate": "1763494200000",
+                  "state": "Preview",
+                  "status": "Match starts at Nov 18, 16:00 GMT",
+                  "team1": {
+                    "teamId": 597,
+                    "teamName": "Deccan Gladiators",
+                    "teamSName": "DEG",
+                    "imageId": 779920
+                  },
+                  "team2": {
+                    "teamId": 598,
+                    "teamName": "Delhi Bulls",
+                    "teamSName": "DBL",
+                    "imageId": 779919
+                  },
+                  "venueInfo": {
+                    "id": 94,
+                    "ground": "Sheikh Zayed Stadium",
+                    "city": "Abu Dhabi",
+                    "timezone": "+04:00",
+                    "latitude": "24.416138",
+                    "longitude": "54.453566"
+                  },
+                  "seriesStartDt": "1763424000000",
+                  "seriesEndDt": "1764633600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Preview"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "Domestic",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 10730,
+            "seriesName": "Plunket Shield 2025-26",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 132175,
+                  "seriesId": 10730,
+                  "seriesName": "Plunket Shield 2025-26",
+                  "matchDesc": "1st Match",
+                  "matchFormat": "TEST",
+                  "startDate": "1763415000000",
+                  "endDate": "1763699400000",
+                  "state": "Preview",
+                  "status": "Match starts at Nov 18, 21:30 GMT",
+                  "team1": {
+                    "teamId": 313,
+                    "teamName": "Central Districts",
+                    "teamSName": "CD",
+                    "imageId": 172363
+                  },
+                  "team2": {
+                    "teamId": 186,
+                    "teamName": "Auckland",
+                    "teamSName": "AKL",
+                    "imageId": 172246
+                  },
+                  "venueInfo": {
+                    "id": 424,
+                    "ground": "Fitzherbert Park",
+                    "city": "Palmerston North",
+                    "timezone": "+13:00",
+                    "latitude": "-40.3671656",
+                    "longitude": "175.6201654"
+                  },
+                  "seriesStartDt": "1763424000000",
+                  "seriesEndDt": "1775001600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Preview"
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 132181,
+                  "seriesId": 10730,
+                  "seriesName": "Plunket Shield 2025-26",
+                  "matchDesc": "2nd Match",
+                  "matchFormat": "TEST",
+                  "startDate": "1763415000000",
+                  "endDate": "1763699400000",
+                  "state": "Preview",
+                  "status": "Match starts at Nov 18, 21:30 GMT",
+                  "team1": {
+                    "teamId": 314,
+                    "teamName": "Wellington",
+                    "teamSName": "WEL",
+                    "imageId": 172364
+                  },
+                  "team2": {
+                    "teamId": 105,
+                    "teamName": "Otago",
+                    "teamSName": "OTG",
+                    "imageId": 172197
+                  },
+                  "venueInfo": {
+                    "id": 45,
+                    "ground": "Basin Reserve",
+                    "city": "Wellington",
+                    "timezone": "+13:00",
+                    "latitude": "-41.161720",
+                    "longitude": "175.323914"
+                  },
+                  "seriesStartDt": "1763424000000",
+                  "seriesEndDt": "1775001600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Preview"
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 132186,
+                  "seriesId": 10730,
+                  "seriesName": "Plunket Shield 2025-26",
+                  "matchDesc": "3rd Match",
+                  "matchFormat": "TEST",
+                  "startDate": "1763415000000",
+                  "endDate": "1763699400000",
+                  "state": "Preview",
+                  "status": "Match starts at Nov 18, 21:30 GMT",
+                  "team1": {
+                    "teamId": 312,
+                    "teamName": "Canterbury",
+                    "teamSName": "CNTBRY",
+                    "imageId": 172362
+                  },
+                  "team2": {
+                    "teamId": 294,
+                    "teamName": "Northern Knights",
+                    "teamSName": "NK",
+                    "imageId": 172343
+                  },
+                  "venueInfo": {
+                    "id": 420,
+                    "ground": "Mainpower Oval",
+                    "city": "Rangiora",
+                    "timezone": "+13:00",
+                    "latitude": "-43.305302",
+                    "longitude": "172.593994"
+                  },
+                  "seriesStartDt": "1763424000000",
+                  "seriesEndDt": "1775001600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Preview"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "ad": {
+            "name": "native_matches",
+            "layout": "native_large",
+            "position": 5
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "Women",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 10405,
+            "seriesName": "Womens Big Bash League 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 126768,
+                  "seriesId": 10405,
+                  "seriesName": "Womens Big Bash League 2025",
+                  "matchDesc": "14th Match",
+                  "matchFormat": "T20",
+                  "startDate": "1763453400000",
+                  "endDate": "1763466000000",
+                  "state": "Preview",
+                  "status": "Match starts at Nov 18, 08:10 GMT",
+                  "team1": {
+                    "teamId": 357,
+                    "teamName": "Hobart Hurricanes Women",
+                    "teamSName": "HBHW",
+                    "imageId": 172403
+                  },
+                  "team2": {
+                    "teamId": 355,
+                    "teamName": "Adelaide Strikers Women",
+                    "teamSName": "ADSW",
+                    "imageId": 172401
+                  },
+                  "venueInfo": {
+                    "id": 39,
+                    "ground": "Bellerive Oval",
+                    "city": "Hobart",
+                    "timezone": "+11:00",
+                    "latitude": "-42.877296",
+                    "longitude": "147.374013"
+                  },
+                  "seriesStartDt": "1762646400000",
+                  "seriesEndDt": "1765756800000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Preview"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "matchType": [
+      "International",
+      "League",
+      "Domestic",
+      "Women"
+    ]
+  },
+  "appIndex": {
+    "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+    "webURL": "www.cricbuzz.com/live-cricket-scores/"
+  },
+  "responseLastUpdated": "1763409600"
+}

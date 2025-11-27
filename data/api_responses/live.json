@@ -1,0 +1,1352 @@
+{
+  "typeMatches": [
+    {
+      "matchType": "League",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 11190,
+            "seriesName": "Nepal Premier League 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 137877,
+                  "seriesId": 11190,
+                  "seriesName": "Nepal Premier League 2025",
+                  "matchDesc": "1st Match",
+                  "matchFormat": "T20",
+                  "startDate": "1763374500000",
+                  "endDate": "1763387100000",
+                  "state": "Complete",
+                  "status": "Kathmandu Gorkhas won by 5 wkts",
+                  "team1": {
+                    "teamId": 2918,
+                    "teamName": "Janakpur Bolts",
+                    "teamSName": "JAB",
+                    "imageId": 174284
+                  },
+                  "team2": {
+                    "teamId": 2937,
+                    "teamName": "Kathmandu Gorkhas",
+                    "teamSName": "KAG",
+                    "imageId": 174284
+                  },
+                  "venueInfo": {
+                    "id": 458,
+                    "ground": "Tribhuvan University International Cricket Ground",
+                    "city": "Kirtipur",
+                    "timezone": "+05:45",
+                    "latitude": "27.6768145",
+                    "longitude": "85.287199"
+                  },
+                  "currBatTeamId": 2937,
+                  "seriesStartDt": "1763337600000",
+                  "seriesEndDt": "1765756800000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Complete"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 130,
+                      "wickets": 6,
+                      "overs": 19.6
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 131,
+                      "wickets": 5,
+                      "overs": 17.6
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "seriesAdWrapper": {
+            "seriesId": 11146,
+            "seriesName": "ACC Mens Asia Cup Rising Stars 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 137404,
+                  "seriesId": 11146,
+                  "seriesName": "ACC Mens Asia Cup Rising Stars 2025",
+                  "matchDesc": "8th Match, Group A",
+                  "matchFormat": "T20",
+                  "startDate": "1763389800000",
+                  "endDate": "1763402400000",
+                  "state": "Complete",
+                  "status": "Bangladesh A won by 8 wkts",
+                  "team1": {
+                    "teamId": 341,
+                    "teamName": "Afghanistan A",
+                    "teamSName": "AFGA",
+                    "imageId": 172389
+                  },
+                  "team2": {
+                    "teamId": 288,
+                    "teamName": "Bangladesh A",
+                    "teamSName": "BANA",
+                    "imageId": 776212
+                  },
+                  "venueInfo": {
+                    "id": 582,
+                    "ground": "West End Park International Cricket Stadium",
+                    "city": "Doha",
+                    "timezone": "+03:00",
+                    "latitude": "25.189391",
+                    "longitude": "51.460211"
+                  },
+                  "currBatTeamId": 288,
+                  "seriesStartDt": "1763078400000",
+                  "seriesEndDt": "1764028800000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Complete"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 78,
+                      "wickets": 10,
+                      "overs": 18.4
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 79,
+                      "wickets": 2,
+                      "overs": 13.3
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "Domestic",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 10317,
+            "seriesName": "Ranji Trophy Elite 2025-26",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 124662,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group B",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Punjab trail by 225 runs",
+                  "team1": {
+                    "teamId": 254,
+                    "teamName": "Maharashtra",
+                    "teamSName": "MAH",
+                    "imageId": 172307
+                  },
+                  "team2": {
+                    "teamId": 245,
+                    "teamName": "Punjab",
+                    "teamSName": "PUN",
+                    "imageId": 172298
+                  },
+                  "venueInfo": {
+                    "id": 851,
+                    "ground": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+                    "city": "New Chandigarh",
+                    "timezone": "+05:30",
+                    "latitude": "30.741797",
+                    "longitude": "76.774915"
+                  },
+                  "currBatTeamId": 245,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 350,
+                      "wickets": 10,
+                      "overs": 113.3
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 125,
+                      "wickets": 4,
+                      "overs": 46.6
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124728,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group D",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Puducherry trail by 587 runs",
+                  "team1": {
+                    "teamId": 95,
+                    "teamName": "Mumbai",
+                    "teamSName": "MUM",
+                    "imageId": 172187
+                  },
+                  "team2": {
+                    "teamId": 465,
+                    "teamName": "Puducherry",
+                    "teamSName": "PDC",
+                    "imageId": 172513
+                  },
+                  "venueInfo": {
+                    "id": 341,
+                    "ground": "Sharad Pawar Cricket Academy BKC",
+                    "city": "Mumbai",
+                    "timezone": "+05:30",
+                    "latitude": "19.061309",
+                    "longitude": "72.866381"
+                  },
+                  "currBatTeamId": 465,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 630,
+                      "wickets": 5,
+                      "overs": 146.6,
+                      "isDeclared": true
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 43,
+                      "wickets": 4,
+                      "overs": 11.6
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124689,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group B",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Chandigarh trail by 475 runs",
+                  "team1": {
+                    "teamId": 128,
+                    "teamName": "Karnataka",
+                    "teamSName": "KAR",
+                    "imageId": 776345
+                  },
+                  "team2": {
+                    "teamId": 595,
+                    "teamName": "Chandigarh",
+                    "teamSName": "CDG",
+                    "imageId": 244269
+                  },
+                  "venueInfo": {
+                    "id": 329,
+                    "ground": "KSCA Hubli Cricket Ground",
+                    "city": "Hubli",
+                    "timezone": "+05:30",
+                    "latitude": "15.370228",
+                    "longitude": "75.127888"
+                  },
+                  "currBatTeamId": 595,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 547,
+                      "wickets": 8,
+                      "overs": 160.0,
+                      "isDeclared": true
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 72,
+                      "wickets": 4,
+                      "overs": 17.4
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124761,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group D",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Delhi trail by 562 runs",
+                  "team1": {
+                    "teamId": 171,
+                    "teamName": "Rajasthan",
+                    "teamSName": "RAJ",
+                    "imageId": 172239
+                  },
+                  "team2": {
+                    "teamId": 81,
+                    "teamName": "Delhi",
+                    "teamSName": "DEL",
+                    "imageId": 172175
+                  },
+                  "venueInfo": {
+                    "id": 1438162,
+                    "ground": "Madan Paliwal Miraj Sports Centre",
+                    "city": "Rajsamand, Rajasthan",
+                    "timezone": "+05:30",
+                    "latitude": "24.8915509",
+                    "longitude": "73.7917133"
+                  },
+                  "currBatTeamId": 81,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 570,
+                      "wickets": 7,
+                      "overs": 160.6,
+                      "isDeclared": true
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 8,
+                      "overs": 3.6
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124640,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group A",
+                  "matchFormat": "TEST",
+                  "startDate": "1763263800000",
+                  "endDate": "1763548200000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Odisha lead by 130 runs",
+                  "team1": {
+                    "teamId": 249,
+                    "teamName": "Odisha",
+                    "teamSName": "ODSA",
+                    "imageId": 776395
+                  },
+                  "team2": {
+                    "teamId": 464,
+                    "teamName": "Nagaland",
+                    "teamSName": "NGL",
+                    "imageId": 776394
+                  },
+                  "venueInfo": {
+                    "id": 429,
+                    "ground": "KIIT Stadium",
+                    "city": "Bhubaneswar",
+                    "timezone": "+05:30",
+                    "latitude": "20.3547124",
+                    "longitude": "85.8148098"
+                  },
+                  "currBatTeamId": 249,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 275,
+                      "wickets": 10,
+                      "overs": 104.4
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 16,
+                      "wickets": 2,
+                      "overs": 6.5
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 161,
+                      "wickets": 10,
+                      "overs": 57.3
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124711,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group C",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Bengal lead by 67 runs",
+                  "team1": {
+                    "teamId": 162,
+                    "teamName": "Assam",
+                    "teamSName": "ASM",
+                    "imageId": 172230
+                  },
+                  "team2": {
+                    "teamId": 232,
+                    "teamName": "Bengal",
+                    "teamSName": "BEN",
+                    "imageId": 172285
+                  },
+                  "venueInfo": {
+                    "id": 437,
+                    "ground": "Bengal Cricket Academy Ground",
+                    "city": "Kalyani",
+                    "timezone": "+05:30",
+                    "latitude": "22.9792675",
+                    "longitude": "88.4416824"
+                  },
+                  "currBatTeamId": 232,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 200,
+                      "wickets": 10,
+                      "overs": 80.2
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 267,
+                      "wickets": 4,
+                      "overs": 66.6
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124673,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group B",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Goa trail by 460 runs",
+                  "team1": {
+                    "teamId": 94,
+                    "teamName": "Saurashtra",
+                    "teamSName": "SAUR",
+                    "imageId": 172186
+                  },
+                  "team2": {
+                    "teamId": 253,
+                    "teamName": "Goa",
+                    "teamSName": "GOA",
+                    "imageId": 172306
+                  },
+                  "venueInfo": {
+                    "id": 861,
+                    "ground": "Saurashtra Cricket Association Stadium C",
+                    "city": "Rajkot",
+                    "timezone": "+05:30",
+                    "latitude": "22.289721",
+                    "longitude": "70.793182"
+                  },
+                  "currBatTeamId": 253,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 585,
+                      "wickets": 7,
+                      "overs": 150.0,
+                      "isDeclared": true
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 125,
+                      "wickets": 2,
+                      "overs": 30.0
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124739,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group D",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Himachal Pradesh trail by 548 runs",
+                  "team1": {
+                    "teamId": 375,
+                    "teamName": "Chhattisgarh",
+                    "teamSName": "CG",
+                    "imageId": 172428
+                  },
+                  "team2": {
+                    "teamId": 251,
+                    "teamName": "Himachal Pradesh",
+                    "teamSName": "HP",
+                    "imageId": 172304
+                  },
+                  "venueInfo": {
+                    "id": 312,
+                    "ground": "Atal Bihari Vajpayee Stadium",
+                    "city": "Nadaun",
+                    "timezone": "+05:30",
+                    "latitude": "31.778851",
+                    "longitude": "76.343590"
+                  },
+                  "currBatTeamId": 251,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 585,
+                      "wickets": 6,
+                      "overs": 157.6,
+                      "isDeclared": true
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 37,
+                      "wickets": 1,
+                      "overs": 10.6
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124629,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group A",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Uttar Pradesh trail by 368 runs",
+                  "team1": {
+                    "teamId": 92,
+                    "teamName": "Tamil Nadu",
+                    "teamSName": "TN",
+                    "imageId": 172184
+                  },
+                  "team2": {
+                    "teamId": 93,
+                    "teamName": "Uttar Pradesh",
+                    "teamSName": "UP",
+                    "imageId": 172185
+                  },
+                  "venueInfo": {
+                    "id": 761,
+                    "ground": "Sri Ramakrishna College of Arts and Science Ground",
+                    "city": "Coimbatore",
+                    "timezone": "+05:30",
+                    "latitude": "11.0227749",
+                    "longitude": "76.9831109"
+                  },
+                  "currBatTeamId": 93,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 455,
+                      "wickets": 10,
+                      "overs": 136.3
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 87,
+                      "wickets": 1,
+                      "overs": 33.0
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124700,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group C",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Railways lead by 310 runs",
+                  "team1": {
+                    "teamId": 247,
+                    "teamName": "Tripura",
+                    "teamSName": "TRI",
+                    "imageId": 172300
+                  },
+                  "team2": {
+                    "teamId": 246,
+                    "teamName": "Railways",
+                    "teamSName": "RLYS",
+                    "imageId": 172299
+                  },
+                  "venueInfo": {
+                    "id": 322,
+                    "ground": "Sardar Vallabhai Patel Stadium",
+                    "city": "Valsad",
+                    "timezone": "+05:30",
+                    "latitude": "20.603069",
+                    "longitude": "72.916183"
+                  },
+                  "currBatTeamId": 246,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 136,
+                      "wickets": 10,
+                      "overs": 41.0
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 446,
+                      "wickets": 9,
+                      "overs": 127.0
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124651,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group A",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Vidarbha lead by 129 runs",
+                  "team1": {
+                    "teamId": 248,
+                    "teamName": "Vidarbha",
+                    "teamSName": "VID",
+                    "imageId": 172301
+                  },
+                  "team2": {
+                    "teamId": 170,
+                    "teamName": "Baroda",
+                    "teamSName": "BRD",
+                    "imageId": 172238
+                  },
+                  "venueInfo": {
+                    "id": 228,
+                    "ground": "Vidarbha Cricket Association Stadium",
+                    "city": "Nagpur",
+                    "timezone": "+05:30",
+                    "latitude": "21.013566",
+                    "longitude": "79.039576"
+                  },
+                  "currBatTeamId": 248,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 169,
+                      "wickets": 10,
+                      "overs": 57.6
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 126,
+                      "wickets": 3,
+                      "overs": 42.6
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 166,
+                      "wickets": 10,
+                      "overs": 72.2
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124717,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group C",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Services lead by 216 runs",
+                  "team1": {
+                    "teamId": 250,
+                    "teamName": "Services",
+                    "teamSName": "SER",
+                    "imageId": 172303
+                  },
+                  "team2": {
+                    "teamId": 200,
+                    "teamName": "Haryana",
+                    "teamSName": "HAR",
+                    "imageId": 172260
+                  },
+                  "venueInfo": {
+                    "id": 288,
+                    "ground": "Ch Bansi Lal Cricket Stadium",
+                    "city": "Rohtak",
+                    "timezone": "+05:30",
+                    "latitude": "28.854644",
+                    "longitude": "76.46442"
+                  },
+                  "currBatTeamId": 250,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 205,
+                      "wickets": 10,
+                      "overs": 75.5
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 122,
+                      "wickets": 4,
+                      "overs": 58.0
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 111,
+                      "wickets": 10,
+                      "overs": 43.2
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124684,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group B",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Madhya Pradesh trail by 126 runs",
+                  "team1": {
+                    "teamId": 244,
+                    "teamName": "Kerala",
+                    "teamSName": "KER",
+                    "imageId": 172297
+                  },
+                  "team2": {
+                    "teamId": 167,
+                    "teamName": "Madhya Pradesh",
+                    "teamSName": "MP",
+                    "imageId": 172236
+                  },
+                  "venueInfo": {
+                    "id": 152,
+                    "ground": "Holkar Cricket Stadium",
+                    "city": "Indore",
+                    "timezone": "+05:30",
+                    "latitude": "22.724371",
+                    "longitude": "75.879701"
+                  },
+                  "currBatTeamId": 167,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 281,
+                      "wickets": 10,
+                      "overs": 114.4
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 155,
+                      "wickets": 6,
+                      "overs": 61.0
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124750,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group D",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Jammu and Kashmir lead by 324 runs",
+                  "team1": {
+                    "teamId": 252,
+                    "teamName": "Jammu and Kashmir",
+                    "teamSName": "JK",
+                    "imageId": 172305
+                  },
+                  "team2": {
+                    "teamId": 242,
+                    "teamName": "Hyderabad",
+                    "teamSName": "HYD",
+                    "imageId": 172295
+                  },
+                  "venueInfo": {
+                    "id": 1251,
+                    "ground": "Hostel Ground JKCA",
+                    "city": "Jammu",
+                    "timezone": "+05:30",
+                    "latitude": "34.0900416",
+                    "longitude": "74.8124651"
+                  },
+                  "currBatTeamId": 252,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 170,
+                      "wickets": 10,
+                      "overs": 47.1
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 275,
+                      "wickets": 4,
+                      "overs": 71.0
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 121,
+                      "wickets": 10,
+                      "overs": 39.2
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124634,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group A",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Andhra trail by 104 runs",
+                  "team1": {
+                    "teamId": 243,
+                    "teamName": "Jharkhand",
+                    "teamSName": "JHKD",
+                    "imageId": 172296
+                  },
+                  "team2": {
+                    "teamId": 241,
+                    "teamName": "Andhra",
+                    "teamSName": "AP",
+                    "imageId": 172294
+                  },
+                  "venueInfo": {
+                    "id": 49,
+                    "ground": "Keenan Stadium",
+                    "city": "Jamshedpur",
+                    "timezone": "+05:30",
+                    "latitude": "22.805692",
+                    "longitude": "86.19144"
+                  },
+                  "currBatTeamId": 241,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 328,
+                      "wickets": 10,
+                      "overs": 112.3
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 224,
+                      "wickets": 2,
+                      "overs": 59.6
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 124706,
+                  "seriesId": 10317,
+                  "seriesName": "Ranji Trophy Elite 2025-26",
+                  "matchDesc": "Elite Group C",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Gujarat lead by 57 runs",
+                  "team1": {
+                    "teamId": 163,
+                    "teamName": "Gujarat",
+                    "teamSName": "GUJ",
+                    "imageId": 172232
+                  },
+                  "team2": {
+                    "teamId": 467,
+                    "teamName": "Uttarakhand",
+                    "teamSName": "UTK",
+                    "imageId": 172515
+                  },
+                  "venueInfo": {
+                    "id": 545,
+                    "ground": "Abhimanyu Cricket Academy",
+                    "city": "Dehradun",
+                    "timezone": "+05:30",
+                    "latitude": "30.405380",
+                    "longitude": "77.794937"
+                  },
+                  "currBatTeamId": 163,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1772409600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 324,
+                      "wickets": 8,
+                      "overs": 88.4,
+                      "isDeclared": true
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 5,
+                      "overs": 1.0
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 272,
+                      "wickets": 10,
+                      "overs": 74.3
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "seriesAdWrapper": {
+            "seriesId": 10333,
+            "seriesName": "Ranji Trophy Plate 2025-26",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 123804,
+                  "seriesId": 10333,
+                  "seriesName": "Ranji Trophy Plate 2025-26",
+                  "matchDesc": "Plate",
+                  "matchFormat": "TEST",
+                  "startDate": "1763261100000",
+                  "endDate": "1763545500000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Arunachal Pradesh trail by 349 runs",
+                  "team1": {
+                    "teamId": 468,
+                    "teamName": "Arunachal Pradesh",
+                    "teamSName": "ARNP",
+                    "imageId": 172516
+                  },
+                  "team2": {
+                    "teamId": 466,
+                    "teamName": "Sikkim",
+                    "teamSName": "SKM",
+                    "imageId": 172514
+                  },
+                  "venueInfo": {
+                    "id": 1265,
+                    "ground": "SICA ground",
+                    "city": "Rangpo",
+                    "timezone": "+05:30",
+                    "latitude": "27.177401",
+                    "longitude": "88.530701"
+                  },
+                  "currBatTeamId": 468,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1769558400000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 91,
+                      "wickets": 10,
+                      "overs": 27.2
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 74,
+                      "wickets": 7,
+                      "overs": 37.5
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 514,
+                      "wickets": 7,
+                      "overs": 121.1,
+                      "isDeclared": true
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 123787,
+                  "seriesId": 10333,
+                  "seriesName": "Ranji Trophy Plate 2025-26",
+                  "matchDesc": "Plate",
+                  "matchFormat": "TEST",
+                  "startDate": "1763263800000",
+                  "endDate": "1763548200000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Bihar trail by 269 runs",
+                  "team1": {
+                    "teamId": 463,
+                    "teamName": "Mizoram",
+                    "teamSName": "MIZ",
+                    "imageId": 776489
+                  },
+                  "team2": {
+                    "teamId": 460,
+                    "teamName": "Bihar",
+                    "teamSName": "BIH",
+                    "imageId": 172508
+                  },
+                  "venueInfo": {
+                    "id": 234,
+                    "ground": "Moin-ul-Haq Stadium",
+                    "city": "Patna",
+                    "timezone": "+05:30",
+                    "latitude": "25.607925",
+                    "longitude": "85.167619"
+                  },
+                  "currBatTeamId": 460,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1769558400000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 509,
+                      "wickets": 10,
+                      "overs": 136.5
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 240,
+                      "wickets": 1,
+                      "overs": 46.6
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 123798,
+                  "seriesId": 10333,
+                  "seriesName": "Ranji Trophy Plate 2025-26",
+                  "matchDesc": "Plate",
+                  "matchFormat": "TEST",
+                  "startDate": "1763265600000",
+                  "endDate": "1763550000000",
+                  "state": "Stumps",
+                  "status": "Day 2: Stumps - Manipur trail by 250 runs",
+                  "team1": {
+                    "teamId": 462,
+                    "teamName": "Meghalaya",
+                    "teamSName": "MGLY",
+                    "imageId": 172510
+                  },
+                  "team2": {
+                    "teamId": 461,
+                    "teamName": "Manipur",
+                    "teamSName": "MNP",
+                    "imageId": 172509
+                  },
+                  "venueInfo": {
+                    "id": 552,
+                    "ground": "Pithwala Stadium",
+                    "city": "Bhimpore, Surat",
+                    "timezone": "+05:30",
+                    "latitude": "21.082924",
+                    "longitude": "72.732645"
+                  },
+                  "currBatTeamId": 461,
+                  "seriesStartDt": "1760486400000",
+                  "seriesEndDt": "1769558400000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Stumps"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 430,
+                      "wickets": 10,
+                      "overs": 115.4
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 180,
+                      "wickets": 4,
+                      "overs": 57.6
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "Women",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 11099,
+            "seriesName": "Womens T20I Quadrangular Series in Thailand 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 135928,
+                  "seriesId": 11099,
+                  "seriesName": "Womens T20I Quadrangular Series in Thailand 2025",
+                  "matchDesc": "6th Match",
+                  "matchFormat": "T20",
+                  "startDate": "1763361900000",
+                  "endDate": "1763374500000",
+                  "state": "Complete",
+                  "status": "Thailand Women won by 7 wkts",
+                  "team1": {
+                    "teamId": 390,
+                    "teamName": "Papua New Guinea Women",
+                    "teamSName": "PNGW",
+                    "imageId": 776305
+                  },
+                  "team2": {
+                    "teamId": 382,
+                    "teamName": "Thailand Women",
+                    "teamSName": "THAIW",
+                    "imageId": 172435
+                  },
+                  "venueInfo": {
+                    "id": 474,
+                    "ground": "Terdthai Cricket Ground",
+                    "city": "Bangkok",
+                    "timezone": "+07:00",
+                    "latitude": "13.756331",
+                    "longitude": "100.501765"
+                  },
+                  "currBatTeamId": 382,
+                  "seriesStartDt": "1763078400000",
+                  "seriesEndDt": "1763510400000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Complete"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 109,
+                      "wickets": 4,
+                      "overs": 19.6
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 110,
+                      "wickets": 3,
+                      "overs": 18.6
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "ad": {
+            "name": "native_matches",
+            "layout": "native_large",
+            "position": 5
+          }
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "matchType": [
+      "International",
+      "League",
+      "Domestic",
+      "Women"
+    ]
+  },
+  "appIndex": {
+    "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+    "webURL": "www.cricbuzz.com/live-cricket-scores/"
+  },
+  "responseLastUpdated": "1763410799"
+}
