@@ -7,7 +7,7 @@ import streamlit as st
 import pandas as pd
 import pymysql
 from contextlib import contextmanager
-from typing import Any, Dict, TypedDict, cast
+from typing import Any, TypedDict
 
 
 class DBConfig(TypedDict):
@@ -44,6 +44,21 @@ def get_mysql_connection():
             conn.close()
 
 
+def read_sql_df(conn: Any, sql: str) -> pd.DataFrame:
+    """Run SQL using the given DB-API connection and return a pandas DataFrame.
+
+    Using a cursor and `fetchall()` keeps the typing simple for Pylance
+    (avoids pandas.read_sql typing overloads with SQLAlchemy).
+    """
+    cur = conn.cursor(pymysql.cursors.DictCursor)
+    try:
+        cur.execute(sql)
+        rows = cur.fetchall()
+        return pd.DataFrame(rows)
+    finally:
+        cur.close()
+
+
 def show():
     """Diagnostic page to check database status"""
     st.title("🔍 Database Diagnostic Tool")
@@ -65,7 +80,7 @@ def show():
                 with st.expander(f"📋 Table: {table}", expanded=True):
                     # Count records
                     count_query = f"SELECT COUNT(*) as total FROM {table}"
-                    count_df = pd.read_sql(count_query, cast(Any, conn))
+                    count_df = read_sql_df(conn, count_query)
                     total = count_df.iloc[0]['total']
                     
                     col1, col2 = st.columns([1, 3])
@@ -79,7 +94,7 @@ def show():
                         if total > 0:
                             # Show sample data
                             sample_query = f"SELECT * FROM {table} LIMIT 3"
-                            sample_df = pd.read_sql(sample_query, cast(Any, conn))
+                            sample_df = read_sql_df(conn, sample_query)
                             st.dataframe(sample_df, use_container_width=True, hide_index=True)
                         else:
                             st.warning(f"⚠️ Table '{table}' is empty. You need to sync data from Live Matches page.")
@@ -98,7 +113,7 @@ def show():
                         SUM(CASE WHEN country IS NULL OR country = '' THEN 1 ELSE 0 END) as null_country
                     FROM players
                 """
-                quality_df = pd.read_sql(query, cast(Any, conn))
+                quality_df = read_sql_df(conn, query)
                 
                 if quality_df.iloc[0]['total'] > 0:
                     st.dataframe(quality_df, use_container_width=True, hide_index=True)
@@ -129,7 +144,7 @@ def show():
                   AND player_name != 'player_name'
                 LIMIT 10
             """
-            sample_df = pd.read_sql(sample_query, cast(Any, conn))
+            sample_df = read_sql_df(conn, sample_query)
             
             if not sample_df.empty:
                 st.success(f"✅ Found {len(sample_df)} valid player records:")
@@ -155,15 +170,15 @@ def show():
                     MAX(start_date) as latest_match
                 FROM matches
             """
-            match_df = pd.read_sql(match_query, cast(Any, conn))
+            match_df = read_sql_df(conn, match_query)
             st.dataframe(match_df, use_container_width=True, hide_index=True)
             
             # Check if tables were created but never populated
             st.markdown("---")
             st.markdown("## 🛠️ Recommendations")
             
-            players_count = pd.read_sql("SELECT COUNT(*) as cnt FROM players", cast(Any, conn)).iloc[0]['cnt']
-            matches_count = pd.read_sql("SELECT COUNT(*) as cnt FROM matches", cast(Any, conn)).iloc[0]['cnt']
+            players_count = read_sql_df(conn, "SELECT COUNT(*) as cnt FROM players").iloc[0]['cnt']
+            matches_count = read_sql_df(conn, "SELECT COUNT(*) as cnt FROM matches").iloc[0]['cnt']
             
             if players_count == 0 and matches_count == 0:
                 st.error("""
