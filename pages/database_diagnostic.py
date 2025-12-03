@@ -95,7 +95,7 @@ def show():
                             # Show sample data
                             sample_query = f"SELECT * FROM {table} LIMIT 3"
                             sample_df = read_sql_df(conn, sample_query)
-                            st.dataframe(sample_df, use_container_width=True, hide_index=True)
+                            st.dataframe(sample_df, use_container_width=True, hide_index=True)  # type: ignore[reportUnknownMemberType]
                         else:
                             st.warning(f"⚠️ Table '{table}' is empty. You need to sync data from Live Matches page.")
             
@@ -114,9 +114,9 @@ def show():
                     FROM players
                 """
                 quality_df = read_sql_df(conn, query)
-                
+
                 if quality_df.iloc[0]['total'] > 0:
-                    st.dataframe(quality_df, use_container_width=True, hide_index=True)
+                    st.dataframe(quality_df, use_container_width=True, hide_index=True)  # type: ignore[reportUnknownMemberType]
                     
                     null_names = quality_df.iloc[0]['null_names']
                     placeholder_names = quality_df.iloc[0]['placeholder_names']
@@ -145,10 +145,10 @@ def show():
                 LIMIT 10
             """
             sample_df = read_sql_df(conn, sample_query)
-            
+
             if not sample_df.empty:
                 st.success(f"✅ Found {len(sample_df)} valid player records:")
-                st.dataframe(sample_df, use_container_width=True, hide_index=True)
+                st.dataframe(sample_df, use_container_width=True, hide_index=True)  # type: ignore[reportUnknownMemberType]
             else:
                 st.error("❌ No valid player data found!")
                 st.markdown("""
@@ -171,7 +171,7 @@ def show():
                 FROM matches
             """
             match_df = read_sql_df(conn, match_query)
-            st.dataframe(match_df, use_container_width=True, hide_index=True)
+            st.dataframe(match_df, use_container_width=True, hide_index=True)  # type: ignore[reportUnknownMemberType]
             
             # Check if tables were created but never populated
             st.markdown("---")
